@@ -55,8 +55,8 @@
         ]
       },
       {
-        "tab": "API Reference",
-        "openapi": "https://app.watercrawl.dev/api/schema/team"
+        "tab": "API Reference_water",
+        "openapi": "api-reference/openapi.json"
     }
     ],
     "global": {
