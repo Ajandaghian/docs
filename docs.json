@@ -8,11 +8,13 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "font": {
-    "family": "Open Sans",
-    "weight": 1000
-    
-  },
+
+  
+"font": {
+  "family": "Vazirmatn",
+  "weight": 700,
+  "source": "https://fonts.googleapis.com/css2family=Vazirmatn:wght@400;700&display=swap"
+},
   
   "navigation": {
     "tabs": [
