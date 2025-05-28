@@ -62,7 +62,7 @@
       },
       {
         "tab": "Hy24",
-        "openapi": "./api-reference/openapi.json"
+        "openapi": "https://app.watercrawl.dev/api/schema/team"
     }
     ],
     "global": {
