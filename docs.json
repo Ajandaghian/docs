@@ -9,10 +9,9 @@
   },
   "favicon": "/favicon.svg",
 "font": {
-  "family": "Vazirmatn",
-  "weight": 700,
-  "source": "https://fonts.googleapis.com/css2family=Vazirmatn:wght@400;700&display=swap"
-},
+  "family": "Exile",
+  "weight": 700
+    },
   
   "navigation": {
     "tabs": [
