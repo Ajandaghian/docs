@@ -61,7 +61,7 @@
       },
       {
         "tab": "Hy24",
-        "openapi": "openapi.json"
+        "openapi": "ess/hy.json"
     }
     ],
     "global": {
